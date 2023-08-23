@@ -93,7 +93,7 @@ function Menu({darkMode, setDarkMode}) {
       <Link to="/" style={{textDecoration:"none", color: "inherit"}}>
         <Logo>
           <Img src={Lamatube}/>
-          LamaTube
+          JojoTube
         </Logo>
         </Link>
         <Item>
@@ -130,7 +130,7 @@ function Menu({darkMode, setDarkMode}) {
         <Hr />
 
           <Title>
-            BEST OF LAMATUBE
+            BEST OF JOJOTUBE
           </Title>
 
         <Item>
